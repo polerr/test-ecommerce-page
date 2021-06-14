@@ -1,0 +1,241 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background: #1c1c1e;
+}
+.box__ovTbo {
+  max-width: 1024px;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  width: 100%;
+  min-width: 0;
+  padding: 32px;
+}
+.box__ovTbo > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-left: calc(0px - 32px);
+  width: calc(100% + 32px);
+}
+.box__ovTbo > :global(.__wab_flex-container) > *,
+.box__ovTbo > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-left: 32px;
+}
+.value__d7VfC:global(.__wab_instance) {
+  position: relative;
+  top: auto;
+  left: auto;
+}
+.box__j9TpM {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  color: #ffffff;
+  width: 100%;
+  min-width: 0;
+}
+.box___8FyIz {
+  color: #cccccc;
+  width: 100%;
+  min-width: 0;
+}
+.svg___9UrkB {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  color: #ffffff;
+  min-width: 0;
+  min-height: 0;
+}
+.button__vg5Pn:global(.__wab_instance) {
+  position: relative;
+}
+.svg__s8Ry {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg__vcKy8 {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__ouKMe {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg__faNl6 {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg__ymlEc {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg__p70V {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.value__oneC:global(.__wab_instance) {
+  position: relative;
+  top: auto;
+  left: auto;
+}
+.box__e7OSo {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  color: #ffffff;
+  width: 100%;
+  min-width: 0;
+}
+.box__wRsQg {
+  color: #cccccc;
+  width: 100%;
+  min-width: 0;
+}
+.svg__rxWni {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  color: #ffffff;
+  min-width: 0;
+  min-height: 0;
+}
+.button__rUrC1:global(.__wab_instance) {
+  position: relative;
+}
+.svg__l0BC5 {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg__auqrI {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__v1WyN {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg__xshZf {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg__ylzYa {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg__f9LS {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.value__naLo:global(.__wab_instance) {
+  position: relative;
+  top: auto;
+  left: auto;
+}
+.box__baks {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  color: #ffffff;
+  width: 100%;
+  min-width: 0;
+}
+.box__nqsCb {
+  color: #cccccc;
+  width: 100%;
+  min-width: 0;
+}
+.svg__oGkxi {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  color: #ffffff;
+  min-width: 0;
+  min-height: 0;
+}
+.button__uBqih:global(.__wab_instance) {
+  position: relative;
+}
+.svg__wfoXh {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg__i2Ayr {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__jn12Y {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg___4QUf6 {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg__tlzU {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg__fpbpp {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
